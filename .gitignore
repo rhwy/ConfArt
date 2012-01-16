@@ -9,6 +9,8 @@
 # Build results
 [Dd]ebug/
 [Rr]elease/
+Bins/
+packages/
 *_i.c
 *_p.c
 *.ilk
