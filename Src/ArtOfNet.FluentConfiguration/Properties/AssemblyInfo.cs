@@ -8,7 +8,6 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("ArtOfNet.ConfArt")]
 [assembly: AssemblyDescription("Fluent configuration library based on conversion between flat files and dynamics")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft")]
 [assembly: AssemblyProduct("ArtOfNet.ConfArt")]
 [assembly: AssemblyCopyright("Copyright © ArtOfNet 2010-2012")]
 [assembly: AssemblyTrademark("")]
