@@ -7,6 +7,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{47D220C7
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentConfigurationTests", "Tests\ArtOfNet.FluentConfiguration.Tests\FluentConfigurationTests.csproj", "{045A124F-1F94-4214-893F-DC8636F86CE4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2C1E50E4-37C2-4CD2-8FBC-CCA86DB5C045}"
+	ProjectSection(SolutionItems) = preProject
+		ConfArt.nuspec = ConfArt.nuspec
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
